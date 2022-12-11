@@ -3,3 +3,29 @@ Uni: HCMUT
 Hobbies: listening to music, reading books, ...
 Uni expectation: getting alot of friends, have a girlfriend :<
 Something to say ? Please i need to pass semester 1 
+
+Các tiêu chí chấm điểm:
+- Chấm điểm Thời gian: Nhóm hoàn thành nhanh nhất nhận điểm cao nhất là số nhóm tham dự, các nhóm sau đó trừ dần đi cho 1 (Expect điểm cao nhất là từ 8 - 10 điểm). Thời gian sẽ bắt đầu tính kể từ khi speaker thông báo bắt đầu practice time
+
+- Chấm điểm Phối hợp (các supporter xem xét và note lại điểm số khi nhóm mình đang làm)
+  + Khả năng phối hợp: 0 (Không giao tiếp) - 1 (Hỗ trợ tối thiểu) - 2 (Hỗ trợ nhau cùng làm file sao cho đẹp) điểm
+  + Sự vui vẻ nhiệt tình khi giao tiếp với nhau: 0 (Không giao tiếp) - 1 (Giao tiếp tối thiểu) - 2 (Nói chuyện vui vẻ và không ngại ngùng)
+Cách chấm điểm Phối hợp: Supporter cầm 1 bảng chứa các tiêu chí trên, quan sát nhóm cho tới khi hết Practice Time 2 rồi đánh vào cột kết quả tương ứng
+
+
+- Chấm điểm Hình thức/Nội dung (speaker chấm):
+  + Bố cục: 0 (Có file trống) - 1 (Có thông tin, sắp xếp gọn gàng) - 2 (Sắp xếp gọn gàng, đẹp mắt, sáng tạo)
+  + Đầy đủ thông tin: 0 (Có file trống) - 1 (Có file chứa chưa đủ thông tin yêu cầu) - 2 (Đủ thông tin) 
+  + Lời nhắn hay, độc lạ: 0 (Có file không có lời nhắn) - 1 (Lời nhắn đơn giản) - 2 (Có từ 2 lời nhắn hay/hài hước/kì lạ)
+
+Cách chấm điểm Hình thức/Nội dung: được thực hiện bởi [Nhóm chấm] sau khi kết thúc Practice Time 2. [Nhóm chấm] sẽ vào các file trong các Repo và chấm điểm.
+
+Nộp bài:
+Khi hoàn thành, các nhóm sẽ thông báo đến cho support của mình
+Supporter sẽ ghi nhận và gửi vào group messenger chung của các supporter theo cú pháp: Nhóm <thứ tự> - <tên tk GitHub>/<tên repo>
+Ví dụ: Nhóm 1 - minh123/go-for-git
+
+
+Công bố kết quả ở phần sau của chương trình. Trao quà 3 nhóm điểm cao nhất
+
+[Nhóm chấm]: Speakers
